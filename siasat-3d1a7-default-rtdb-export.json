@@ -1,0 +1,85 @@
+{
+  "jadwalMahasiswa": {
+    "672022191": {
+      "TC701": true,
+      "TC702": true,
+      "TC703": true,
+      "TC705": true
+    }
+  },
+  "matakuliah": {
+    "TC004": {
+      "dosenId": "67000",
+      "jadwal": {
+        "hari": "Jumat",
+        "jam": "14.00 - 17.00"
+      },
+      "namaMatkul": "Web Service"
+    },
+    "TC701": {
+      "dosenId": "67001",
+      "jadwal": {
+        "hari": "Senin",
+        "jam": "10:00 - 12:00"
+      },
+      "namaMatkul": "Pemrograman Mobile"
+    },
+    "TC702": {
+      "dosenId": "67001",
+      "jadwal": {
+        "hari": "Selasa",
+        "jam": "13:00 - 15:00"
+      },
+      "namaMatkul": "Sistem Basis Data"
+    },
+    "TC703": {
+      "dosenId": "67000",
+      "jadwal": {
+        "hari": "Rabu",
+        "jam": "08:00 - 10:00"
+      },
+      "namaMatkul": "Kecerdasan Buatan"
+    },
+    "TC705": {
+      "dosenId": "67001",
+      "jadwal": {
+        "hari": "Selasa",
+        "jam": "07.00 - 09.00"
+      },
+      "namaMatkul": "Rekayasa Perangkat Lunak"
+    }
+  },
+  "nilai": {
+    "TC703": {
+      "672022191": {
+        "nilaiHuruf": "A"
+      }
+    }
+  },
+  "users": {
+    "67000": {
+      "namaLengkap": "Budi Kritianto",
+      "password": "67000",
+      "role": "kaprogdi"
+    },
+    "67001": {
+      "namaLengkap": "Pratyaksa Ocsa",
+      "password": "67001",
+      "role": "dosen"
+    },
+    "672022191": {
+      "ipk": 3.8,
+      "namaLengkap": "Joel Whesley",
+      "password": "123",
+      "role": "mahasiswa",
+      "statusRegistrasiUlang": true
+    },
+    "672022192": {
+      "ipk": 3.5,
+      "namaLengkap": "Citra Lestari",
+      "password": "123",
+      "role": "mahasiswa",
+      "statusRegistrasiUlang": true
+    }
+  }
+}
